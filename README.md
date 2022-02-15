@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lcmarie12
-- 👀 I’m interested in ... equitable access in UX design without sacrafice to beauty, form with function.
+- 👀 I’m interested in ... equitable access considered in UX design without sacrafice to beauty, form with function.
 - 🌱 I’m currently learning ...how to utilize svg images and css techniques to create quick loading beautiful solutions.
 - 💞️ I’m looking to collaborate on ...python projects and learning cool data visualization techniques that tell a story.
 - 📫 How to reach me ... Cait.Codes
