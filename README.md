@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lcmarie12
-- 👀 I’m interested in ... equitable access considered in UX design without sacrafice to beauty, form with function.
+- 👀 I’m interested in ... getting kids coding, for the sake of building critical thinking, creativity, and confidence.
 - 🌱 I’m currently learning ...how to untangle the world of svg images and css techniques to create quick loading beautiful solutions.
-- 💞️ I’m looking to collaborate on ...python projects and learning cool data visualization techniques that tell a story.
+- 💞️ I’m looking to collaborate on ...building cool games like those on Codepip.com.
 - 📫 How to reach me ... Cait.Codes
 
 <!---
